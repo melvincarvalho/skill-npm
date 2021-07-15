@@ -1,0 +1,10 @@
+# PREREQUISITES
+sudo apt install nodejs npm
+
+# INSTALL
+npm init
+
+# CONFIG
+
+# NOTES
+# name the project something unique then start adding skills

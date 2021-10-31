@@ -20,6 +20,10 @@ Add npm to an autonomous agent
 [![npm](https://img.shields.io/npm/dw/skill-npm.svg)](https://npmjs.com/package/skill-npm)
 [![Github Stars](https://img.shields.io/github/stars/melvincarvalho/skill-npm.svg)](https://github.com/melvincarvalho/skill-npm/)
 
+## Features
+
+&nbsp;&nbsp;✓&nbsp; Publish agent to npm  
+
 ## Introduction
 
 npm is a modular skill to be used in composing [autonomous agents](https://aam.wtf/).  It will initialize an npm package and package.json

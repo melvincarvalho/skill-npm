@@ -1,6 +1,6 @@
 {
   "name": "skill-npm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "npm skill",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/melvincarvalho/skill-npm.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["aam", "skill", "aam-skill"],
+  "author": "Melvin Carvalho",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/melvincarvalho/skill-npm/issues"
